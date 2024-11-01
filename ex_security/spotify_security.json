@@ -1,0 +1,6 @@
+{
+    "SPOTIPY_CLIENT_ID": "EXAMPLE",
+    "SPOTIPY_CLIENT_SECRET": "EXAMPLE",
+    "SPOTIPY_REDIRECT_URI": "http://localhost:5000/callback",
+    "SECRET_KEY": "EXAMPLE"
+}

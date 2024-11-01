@@ -1,0 +1,12 @@
+1. Install Python 3.11 or later
+2. rename this folder to security
+
+
+Optional steps:
+ - spotify_obs_studio.py:
+    SPOTIPY_CLIENT_ID, SPOTIPY_CLIENT_SECRET How i Get them?
+     go to https://developer.spotify.com/dashboard and login with your Spotify Account
+     create a new App. as Name choose a funny name as Redirect URIs choose "http://localhost:5000/callback" if it's on your local machine if not choose the ip from the server!
+     Choose under Which API/SDKs are you planning to use?: Web API, Web Playback SDK. Agree the Spotify Developer Terms of Service and Design Guidelines!
+     when you are on your Home click on Settings! copy your Client ID and click View Client secret copy them also.
+     If you want to generate a SECRET_KEY, execute the file secret_generate.py and copy the text.
